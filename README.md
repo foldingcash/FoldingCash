@@ -31,6 +31,7 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 - [ ] Work on distro API unit tests...all aren't passing at the moment :frowning:
 - [ ] Improvide distro API timeout problem
 - [ ] Create CI pipeline for prod distro API
+- [ ] Distro API doesn't always clean up it's download files, ensure cleanup
 
 ### Great Ideas (Suggestions)
 
