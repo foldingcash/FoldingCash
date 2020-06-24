@@ -15,14 +15,14 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 - [ ] Create FoldingCash logo - **In Progress, waiting for artist's response**
 - [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
 - [ ] Create and deploy main website
+- [ ] Identify BCH/SLP address in folding names
 - [ ] Start distributions
 - [ ] Create memorial website to consume FoldingCash for commemoration
-- [ ] Identify BCH/SLP address in folding names
 - [ ] Update and start running the DiscordBot
 - [ ] Add micro-donation commands to DiscordBot
-- [ ] Identify and run giveaways/promotions of FoldingCash
 - [ ] Update and promote social media pages
 - [ ] Identify potential streamer partnerships
+- [ ] Identify and run giveaways/promotions of FoldingCash
 - [ ] Create easy folding installation
 - [ ] Run platinum, gold, silver, bronze award promotions
 
