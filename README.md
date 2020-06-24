@@ -12,7 +12,7 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 
 ## TODO
 
-- [ ] Create FoldingCash logo - **In Progress, waiting for artist's response**
+- [ ] Create FoldingCash logo - **In Progress, artist iterating on designs**
 - [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
 - [ ] Create and deploy main website
 - [ ] Identify BCH/SLP address in folding names
@@ -31,6 +31,7 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 - [ ] Work on distro API unit tests...all aren't passing at the moment :frowning:
 - [ ] Improvide distro API timeout problem
 - [ ] Create CI pipeline for prod distro API
+- [ ] Distro API doesn't always clean up it's download files, ensure cleanup
 
 ### Great Ideas (Suggestions)
 
