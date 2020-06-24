@@ -6,7 +6,7 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 
 - [X] [POC distribution software](https://github.com/foldingcash/distro) - **Going to continue to improve the reliability of this software**
 - [ ] Create new logo - **In Progress, waiting for artist's response**
-- [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete, waiting for new logo to finish and deploy**
+- [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
 - [ ] Create and deploy main website
 - [ ] Start distributions
 - [ ] Create memorial website
