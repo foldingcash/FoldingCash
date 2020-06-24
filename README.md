@@ -13,7 +13,7 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 ## High Priority
 
 - [ ] Create FoldingCash logo - **In Progress, waiting for artist's response**
-- [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete, waiting for new logo to finish and deploy**
+- [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
 - [ ] Create and deploy main website
 - [ ] Start distributions
 - [ ] Create memorial website
