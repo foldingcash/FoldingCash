@@ -25,6 +25,8 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 - [ ] Identify and run giveaways/promotions of FoldingCash
 - [ ] Create easy folding installation
 - [ ] Run platinum, gold, silver, bronze award promotions
+- [ ] Daily or on-demand payouts
+- [ ] Style social media platforms
 
 ## Tech Debt
 
