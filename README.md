@@ -2,6 +2,8 @@
 
 This is meant to describe the high-level roadmap items. The roadmap is in flux and not guaranteed to be completed on-time or at all.
 
+Each item should describe it's severity and effort.
+
 ## Completed
 
 - [X] [Distribution software](https://github.com/foldingcash/distro) - **Going to continue to improve the reliability of this software**
@@ -10,7 +12,13 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 - [X] [Create Twitter page](https://twitter.com/FoldingCash)
 - [X] [Create Reddit subreddit](https://reddit.com/r/FoldingCash)
 
-## TODO
+## Priority
+
+### High
+
+### Medium
+
+### Low
 
 - [ ] Create FoldingCash logo - **In Progress, artist iterating on designs**
 - [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
