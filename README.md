@@ -19,7 +19,7 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 - [ ] Create and deploy main website
 - [ ] Identify BCH/SLP address in folding names
 - [ ] Update distro source when BCH/SLP addresses identified
-- [ ] Start distributions **Targeting 2020**
+- [ ] Start distributions - **Targeting 2020**
 
 ### [Medium](MediumPriority.md)
 
