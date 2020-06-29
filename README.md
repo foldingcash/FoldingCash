@@ -2,8 +2,6 @@
 
 This is meant to describe the high-level roadmap items. The roadmap is in flux and not guaranteed to be completed on-time or at all.
 
-Each item should describe it's severity and effort.
-
 ## Completed
 
 - [X] [Distribution software](https://github.com/foldingcash/distro) - **Going to continue to improve the reliability of this software**
@@ -12,29 +10,32 @@ Each item should describe it's severity and effort.
 - [X] [Create Twitter page](https://twitter.com/FoldingCash)
 - [X] [Create Reddit subreddit](https://reddit.com/r/FoldingCash)
 
-## Priority
+## TODO
 
 ### [High](HighPriority.md)
-
-### [Medium](MediumPriority.md)
-
-### [Low](LowPriority.md)
 
 - [ ] Create FoldingCash logo - **In Progress, artist iterating on designs**
 - [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
 - [ ] Create and deploy main website
 - [ ] Identify BCH/SLP address in folding names
-- [ ] Start distributions
-- [ ] Create memorial website to consume FoldingCash as a donation for commemoration
-- [ ] Update and start running the DiscordBot
+- [ ] Update distro source when BCH/SLP addresses identified
+- [ ] Start distributions **Targeting 2020
+
+### [Medium](MediumPriority.md)
+
+- [ ] Start running the DiscordBot
 - [ ] Add micro-donation commands to DiscordBot
-- [ ] Update and promote social media pages
+- [ ] Create memorial website to consume FoldingCash as a donation for commemoration
+- [ ] Promote social media pages
 - [ ] Identify potential streamer partnerships
-- [ ] Identify and run giveaways/promotions of FoldingCash
 - [ ] Create easy folding installation
-- [ ] Run platinum, gold, silver, bronze award promotions
-- [ ] Daily or on-demand payouts
 - [ ] Style social media platforms
+- [ ] Daily or on-demand payouts
+
+### [Low](LowPriority.md)
+
+- [ ] Identify and run giveaways/promotions of FoldingCash
+- [ ] Run platinum, gold, silver, bronze award promotions
 
 ## [Tech Debt](TechDebt.md)
 
