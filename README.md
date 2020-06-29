@@ -16,9 +16,9 @@ Each item should describe it's severity and effort.
 
 ### [High](HighPriority.md)
 
-### Medium
+### [Medium](MediumPriority.md)
 
-### Low
+### [Low](LowPriority.md)
 
 - [ ] Create FoldingCash logo - **In Progress, artist iterating on designs**
 - [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
@@ -36,7 +36,7 @@ Each item should describe it's severity and effort.
 - [ ] Daily or on-demand payouts
 - [ ] Style social media platforms
 
-## Tech Debt
+## [Tech Debt](TechDebt.md)
 
 - [ ] Work on distro API unit tests...all aren't passing at the moment :frowning:
 - [ ] Improvide distro API timeout problem
