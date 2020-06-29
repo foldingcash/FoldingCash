@@ -14,7 +14,7 @@ Each item should describe it's severity and effort.
 
 ## Priority
 
-### High
+### [High](HighPriority.md)
 
 ### Medium
 
