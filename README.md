@@ -12,23 +12,32 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 
 ## TODO
 
+### [High](HighPriority.md)
+
 - [ ] Create FoldingCash logo - **In Progress, artist iterating on designs**
 - [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
 - [ ] Create and deploy main website
 - [ ] Identify BCH/SLP address in folding names
-- [ ] Start distributions
-- [ ] Create memorial website to consume FoldingCash for commemoration
-- [ ] Update and start running the DiscordBot
-- [ ] Add micro-donation commands to DiscordBot
-- [ ] Update and promote social media pages
-- [ ] Identify potential streamer partnerships
-- [ ] Identify and run giveaways/promotions of FoldingCash
-- [ ] Create easy folding installation
-- [ ] Run platinum, gold, silver, bronze award promotions
-- [ ] Daily or on-demand payouts
-- [ ] Style social media platforms
+- [ ] Update distro source when BCH/SLP addresses identified
+- [ ] Start distributions **Targeting 2020**
 
-## Tech Debt
+### [Medium](MediumPriority.md)
+
+- [ ] Start running the DiscordBot
+- [ ] Add micro-donation commands to DiscordBot
+- [ ] Create memorial website to consume FoldingCash as a donation for commemoration
+- [ ] Promote social media pages
+- [ ] Identify potential streamer partnerships
+- [ ] Create easy folding installation
+- [ ] Style social media platforms
+- [ ] Daily or on-demand payouts
+
+### [Low](LowPriority.md)
+
+- [ ] Identify and run giveaways/promotions of FoldingCash
+- [ ] Run platinum, gold, silver, bronze award promotions
+
+## [Tech Debt](TechDebt.md)
 
 - [ ] Work on distro API unit tests...all aren't passing at the moment :frowning:
 - [ ] Improvide distro API timeout problem
