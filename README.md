@@ -25,7 +25,7 @@ Each item should describe it's severity and effort.
 - [ ] Create and deploy main website
 - [ ] Identify BCH/SLP address in folding names
 - [ ] Start distributions
-- [ ] Create memorial website to consume FoldingCash for commemoration
+- [ ] Create memorial website to consume FoldingCash as a donation for commemoration
 - [ ] Update and start running the DiscordBot
 - [ ] Add micro-donation commands to DiscordBot
 - [ ] Update and promote social media pages
