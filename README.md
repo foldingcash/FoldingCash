@@ -14,7 +14,7 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 
 ### [High](HighPriority.md)
 
-- [ ] Create FoldingCash logo - **In Progress, artist iterating on designs**
+- [X] Create FoldingCash logo - **Logo received, raw and publishable images; need to license and start deploying**
 - [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
 - [ ] Create and deploy main website
 - [ ] Identify BCH/SLP address in folding names
