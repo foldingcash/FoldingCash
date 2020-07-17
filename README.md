@@ -9,12 +9,13 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 - [X] [Create Facebook page](https://www.facebook.com/FoldingCash)
 - [X] [Create Twitter page](https://twitter.com/FoldingCash)
 - [X] [Create Reddit subreddit](https://reddit.com/r/FoldingCash)
+- [X] [Create Memo topic](https://memo.cash/topic/FoldingCash)
+- [X] Create FoldingCash logo
 
 ## TODO
 
 ### [High](HighPriority.md)
 
-- [X] Create FoldingCash logo - **Logo received, raw and publishable images; need to license and start deploying**
 - [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
 - [ ] Create and deploy main website
 - [ ] Identify BCH/SLP address in folding names
