@@ -37,6 +37,7 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 
 - [ ] Identify and run giveaways/promotions of FoldingCash
 - [ ] Run platinum, gold, silver, bronze award promotions
+- [ ] Create and trade merchandise (shirts, face masks, etc.) for FoldingCash
 
 ## [Tech Debt](TechDebt.md)
 
