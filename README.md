@@ -4,27 +4,27 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 
 ## Completed
 
-- [X] [Distribution software](https://github.com/foldingcash/distro) - **Going to continue to improve the reliability of this software**
+- [X] [Distribution software](https://github.com/foldingcash/distro)
 - [X] [Create Discord channel](https://discord.gg/HU3YeXQ)
 - [X] [Create Facebook page](https://www.facebook.com/FoldingCash)
 - [X] [Create Twitter page](https://twitter.com/FoldingCash)
 - [X] [Create Reddit subreddit](https://reddit.com/r/FoldingCash)
 - [X] [Create Memo topic](https://memo.cash/topic/FoldingCash)
 - [X] Create FoldingCash logo
+- [X] Start running the DiscordBot
 
 ## TODO
 
 ### [High](HighPriority.md)
 
-- [ ] Create and deploy donation webpage - **Domain secured and majority of dev complete (private repo), waiting for new logo to finish and deploy**
-- [ ] Create and deploy main website
+- [ ] Create and deploy donation webpage - **Website deployed, configuring domain, and certificates**
+- [ ] Create and deploy main website - **Website deployed, configuring domain, and certificates**
 - [ ] Identify BCH/SLP address in folding names
 - [ ] Update distro source when BCH/SLP addresses identified
-- [ ] Start distributions - **Targeting 2020**
+- [ ] Start distributions - **Targeting EOY 2020**
 
 ### [Medium](MediumPriority.md)
 
-- [ ] Start running the DiscordBot
 - [ ] Add micro-donation commands to DiscordBot
 - [ ] Create memorial website to consume FoldingCash as a donation for commemoration
 - [ ] Promote social media pages
