@@ -12,16 +12,20 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 - [X] [Create Memo topic](https://memo.cash/topic/FoldingCash)
 - [X] Create FoldingCash logo
 - [X] Start running the DiscordBot
+- [X] [Create and deploy donation webpage](http://donate.folding.cash)
+- [X] [Create and deploy main website](http://folding.cash)
+- [X] Distro API doesn't always clean up it's download files, ensure cleanup
+- [X] Work on distro API unit tests...all aren't passing at the moment :frowning:
+- [X] Improvide distro API timeout problem
 
 ## TODO
 
 ### [High](HighPriority.md)
-
-- [ ] Create and deploy donation webpage - **Website deployed, configuring domain, and certificates**
-- [ ] Create and deploy main website - **Website deployed, configuring domain, and certificates**
-- [ ] Identify BCH/SLP address in folding names
-- [ ] Update distro source when BCH/SLP addresses identified
-- [ ] Start distributions - **Targeting EOY 2020**
+- [ ] Start distributions - **Targeting January 2021**
+- [ ] Deploy API for public access
+- [ ] Add BCH/SLP address support in folding names
+- [ ] Add SSL support for donation webpage
+- [ ] Add SSL support for main website
 
 ### [Medium](MediumPriority.md)
 
@@ -37,14 +41,11 @@ This is meant to describe the high-level roadmap items. The roadmap is in flux a
 
 - [ ] Identify and run giveaways/promotions of FoldingCash
 - [ ] Run platinum, gold, silver, bronze award promotions
-- [ ] Create and trade merchandise (shirts, face masks, etc.) for FoldingCash
+- [ ] Trade merchandise (shirts, face masks, etc.) for FoldingCash tokens
 
 ## [Tech Debt](TechDebt.md)
 
-- [ ] Work on distro API unit tests...all aren't passing at the moment :frowning:
-- [ ] Improvide distro API timeout problem
 - [ ] Create CI pipeline for prod distro API
-- [ ] Distro API doesn't always clean up it's download files, ensure cleanup
 
 ### Great Ideas (Suggestions)
 
