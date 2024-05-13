@@ -1,9 +1,30 @@
 {
   "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
-  "version": { "major": 0, "minor": 1, "patch": 0 },
-  "latestRevision": "2024-05-13",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2024-05-13T19:56:47.382Z",
   "registryIdentity": {
-    "name": "BCMR for FoldingCash",
-    "description": "self-published bcmr for FoldingCash"
+    "name": "bcmr for FoldingCash-Test",
+    "description": "self-published bcmr for FoldingCash-Test"
+  },
+  "identities": {
+    "349722406ade775320f1cf068ec51ae2d6b7b9a5ef7003da489cb3b8c2401547": {
+      "2024-05-13T19:56:47.382Z": {
+        "name": "FoldingCash-Test",
+        "description": "Testing",
+        "token": {
+          "category": "349722406ade775320f1cf068ec51ae2d6b7b9a5ef7003da489cb3b8c2401547",
+          "symbol": "FLDCHTEST",
+          "decimals": 8
+        },
+        "uris": {
+          "icon": "",
+          "web": ""
+        }
+      }
+    }
   }
 }
