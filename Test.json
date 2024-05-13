@@ -1,0 +1,9 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": { "major": 0, "minor": 1, "patch": 0 },
+  "latestRevision": "2024-05-13",
+  "registryIdentity": {
+    "name": "BCMR for FoldingCash",
+    "description": "self-published bcmr for FoldingCash"
+  }
+}
